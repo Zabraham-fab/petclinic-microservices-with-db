@@ -49,7 +49,7 @@ You can then access petclinic here: http://localhost:8080/
 
 **Architecture diagram of the Spring Petclinic Microservices**
 
-![Spring Petclinic Microservices architecture](docs/microservices-architecture-diagram.jpg)
+![Spring Petclinic Microservices architecture](docs/microservices-architecture-diagram.png)
 
 
 ## In case you find a bug/suggested improvement for Spring Petclinic Microservices
